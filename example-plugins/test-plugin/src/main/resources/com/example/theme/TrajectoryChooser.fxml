@@ -1,0 +1,8 @@
+<?import javafx.scene.layout.*?>
+<StackPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.widget.TrajectoryChooser" fx:id="root">
+
+    <ComboBox fx:id = "chooser">
+
+    </ComboBox>
+
+</StackPane>

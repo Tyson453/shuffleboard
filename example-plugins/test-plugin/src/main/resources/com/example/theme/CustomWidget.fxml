@@ -1,0 +1,13 @@
+<?import javafx.scene.layout.*?>
+<StackPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.widget.CustomWidget" fx:id="root">
+
+    <HBox fx:id = "buttonContainer">
+        <Button fx:id = "addTrajectoryButton"/>
+        <Button fx:id = "addScoringButton"/>
+        <Button fx:id = "addOtherButton"/>
+    </HBox>
+
+    <VBox fx:id = "chooserContainer">
+    </VBox>
+
+</StackPane>

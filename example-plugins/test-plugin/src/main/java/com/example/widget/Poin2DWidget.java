@@ -1,4 +1,4 @@
-package com.example.theme;
+package com.example.widget;
 
 import edu.wpi.first.shuffleboard.api.widget.Description;
 import edu.wpi.first.shuffleboard.api.widget.ParametrizedController;
